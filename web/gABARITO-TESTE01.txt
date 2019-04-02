@@ -1,0 +1,22 @@
+01 - De acordo com o National Institute of Standards and Technology (NIST)...
+
+d)  D. Todas as alternativas anteriores 
+
+02 - Qual das situações abaixo não é evitada mesmo que sejam tomadas todas as precauções relacionadas à segurança da informação?
+
+c)  Tentativas de ataques de harckers
+
+03 - Dentre as alternativas abaixo, qual não estava entre as preocupações com a proteção de informações durante a Segunda Guerra Mundial?
+
+b) - Verificação das credenciais de cada usuário.
+
+04 - A análise de ameaças é uma etapa da modelagem onde são identificadas as ameaças que podem afetar o sistema e comprometer os recursos. 
+
+Qual das alternativas abaixo contém três métodos comumente utilizados para realizar esta análise?
+
+c) Listas de ameaças, árvore de ataque e STRIDE.
+
+05) Sobre o processo de modelagem de ameaça, julgue verdadeiro (V) ou falso (F):
+
+d) V,V,F,V,V
+

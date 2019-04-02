@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/18/aps2/WebMVCClassificadosWEB/src/java/Servlets
+END
+ServletGerenciarTipoAnuncio.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/18/aps2/WebMVCClassificadosWEB/src/java/Servlets/ServletGerenciarTipoAnuncio.java
+END
+ServletGerenciarSessao.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/18/aps2/WebMVCClassificadosWEB/src/java/Servlets/ServletGerenciarSessao.java
+END
+ServletListagemTipoAnuncio.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/18/aps2/WebMVCClassificadosWEB/src/java/Servlets/ServletListagemTipoAnuncio.java
+END
+ServletGerenciarFuncionario.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/18/aps2/WebMVCClassificadosWEB/src/java/Servlets/ServletGerenciarFuncionario.java
+END
+ServletListagemFuncionario.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/18/aps2/WebMVCClassificadosWEB/src/java/Servlets/ServletListagemFuncionario.java
+END
+ServletListagemSessao.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/18/aps2/WebMVCClassificadosWEB/src/java/Servlets/ServletListagemSessao.java
+END

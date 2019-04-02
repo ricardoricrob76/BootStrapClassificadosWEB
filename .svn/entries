@@ -1,0 +1,81 @@
+10
+
+dir
+32
+http://fabrica.unipe.br/svn/aps2/WebMVCClassificadosWEB
+http://fabrica.unipe.br/svn
+
+
+
+2011-03-29T20:57:37.702007Z
+18
+081110230
+has-props
+has-prop-mods
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+ebd912e9-4655-4966-a6ad-86d888170c57
+
+
+
+
+
+
+0
+
+build.xml
+file
+
+
+
+
+2011-03-29T00:47:56.039000Z
+121786e6f9b7c8fbf8b7f5ba0ec5f97a
+2011-03-29T20:57:37.702007Z
+18
+081110230
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3525
+
+nbproject
+dir
+
+src
+dir
+
+test
+dir
+
+web
+dir
+
